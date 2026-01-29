@@ -21,7 +21,7 @@
 	
 	"updates": [
 		{
-			"identifier": "revert-u242-bulletstorm",
+			"identifier": "revert-bulletstorm",
 			"host": {
 				"meta": "https://raw.githubusercontent.com/Chemaleo/PD2ModsByChemaleo/refs/heads/main/Revert%20U242%20Bulletstorm/meta.json"
 			}
