@@ -3,7 +3,7 @@
     "description": "Restores 60 secs effect on ammo bag's last charge",
     "author": "Chemaleo",
     "contact": "https://steamcommunity.com/id/chemaleo/",
-    "version": "2.0",
+    "version": "2.1",
 	"blt_version": 2,
 	"image" : "bulletstorm.png",
 
