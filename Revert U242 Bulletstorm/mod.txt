@@ -23,8 +23,8 @@
 		{
 			"identifier": "revert-u242-bulletstorm",
 			"host": {
-				"meta": "https://github.com/Chemaleo/PD2ModsByChemaleo/raw/refs/heads/main/Revert%20U242%20Bulletstorm/meta.json"
+				"meta": "https://raw.githubusercontent.com/Chemaleo/PD2ModsByChemaleo/refs/heads/main/Revert%20U242%20Bulletstorm/meta.json"
 			}
 		}
-	]	
+	]
 }
