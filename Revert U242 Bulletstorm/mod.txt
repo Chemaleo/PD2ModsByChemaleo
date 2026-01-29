@@ -17,7 +17,7 @@
 			"hook_id" : "lib/managers/localizationmanager", 
 			"script_path" : "updatebulletstormdesc.lua"
 		}
-    ]
+    ],
 	
 	"updates": [
 		{
