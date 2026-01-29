@@ -11,7 +11,7 @@
             "hook_id": "lib/tweak_data/weapontweakdata",
             "script_path": "revertaiakronhc.lua"
         }
-    ]
+    ],
 	
 	"updates": [
 		{
