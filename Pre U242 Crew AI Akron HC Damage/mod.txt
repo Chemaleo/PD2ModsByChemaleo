@@ -3,7 +3,7 @@
     "description": "revert crew ai akron hc u242 dmg nerf",
     "author": "Chemaleo",
     "contact": "https://steamcommunity.com/id/chemaleo/",
-    "version": "1.0",
+    "version": "1.1",
 	"blt_version": 2,
 
     "hooks": [
