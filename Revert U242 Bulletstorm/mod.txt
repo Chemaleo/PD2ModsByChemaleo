@@ -18,4 +18,13 @@
 			"script_path" : "updatebulletstormdesc.lua"
 		}
     ]
+	
+	"updates": [
+		{
+			"identifier": "revert-u242-bulletstorm",
+			"host": {
+				"meta": "https://github.com/Chemaleo/PD2ModsByChemaleo/raw/refs/heads/main/Pre%20U242%20Crew%20AI%20Akron%20HC%20Damage/meta.json"
+			}
+		}
+	]	
 }
