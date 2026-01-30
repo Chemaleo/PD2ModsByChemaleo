@@ -1,0 +1,25 @@
+{
+    "name": "Continental Coins Reborn",
+    "description": "Replaces all* 'Coins' strings with 'Continental Coins'",
+    "author": "Chemaleo",
+    "contact": "https://steamcommunity.com/id/chemaleo/",
+    "version": "1.0",
+	"blt_version": 2,
+	"image": "cc.png",
+
+    "hooks": [
+        {
+            "hook_id": "lib/managers/menumanager",
+            "script_path": "ccreborn.lua"
+        }
+    ],
+	
+	"updates": [
+		{
+			"identifier": "STRRCCR",
+			"host": {
+				"meta": "https://raw.githubusercontent.com/Chemaleo/PD2ModsByChemaleo/refs/heads/main/Pre%20U242%20Crew%20AI%20Akron%20HC%20Damage/meta.json"
+			}
+		}
+	]
+}
